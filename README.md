@@ -1,2 +1,2 @@
 # mainRepository
-Hi, this is my main repository.
+👋 Hi, this is my main repository.
